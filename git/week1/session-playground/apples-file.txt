@@ -1,1 +1,2 @@
 Apples are red or green.
+Apples can be sweet and crunchy.
